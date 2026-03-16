@@ -22,15 +22,15 @@
 <hr>
 <h2>Key Projects</h2>
 <b>
-<a href="(https://github.com/MIBoy54/careerops-platform)">CareerOps Platform</a>
+<a href="https://github.com/MIBoy54/careerops-platform">CareerOps Platform</a>
 </b>
 <p>DevOps-driven operational automation platform for managing recruiter relationships, opportunity tracking, and compliance reporting.</p>
 <h3>Tech Stack:</h3>
 <ul>
-<li>- GitHub Actions</li>
-<li>- Vitest</li>
-<li>- Playwright</li>
-<li>- MySQL</li>
+<li>GitHub Actions</li>
+<li>Vitest</li>
+<li>Playwright</li>
+<li>MySQL</li>
 </ul>
 </p>Framework comparison lab evaluating Playwright and Cypress under enterprise CI/CD conditions.</p>
 <a href="https://[www.example.com](https://github.com/MIBoy54/automation-architecture-lab)">Automation Architecture Lab</a>
