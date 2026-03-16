@@ -1,6 +1,7 @@
-# Bruce R Lewis
+<h1 align="center"><b>Bruce R Lewis</b></h1>
 
 QA Automation Architect focused on building CI-driven test platforms, modern automation frameworks, and DevOps-aligned quality engineering systems.
+30+ years delivering quality engineering leadership across healthcare, finance, insurance, and telecommunications platforms.
 
 ## Current Focus
 - Playwright automation
@@ -33,8 +34,8 @@ Tech Stack:
 ### [Automation Architecture Lab](https://github.com/MIBoy54/automation-architecture-lab)
 Framework comparison lab evaluating Playwright and Cypress under enterprise CI/CD conditions.
 
-## Technologies
-Playwright • Katalon • Vitest • Node.js • GitHub Actions • TypeScript
+## Technology Focus
+Playwright • Vitest • Node.js • GitHub Actions • TypeScript • Katalon
 
 ## Interests
 
@@ -43,7 +44,6 @@ Playwright • Katalon • Vitest • Node.js • GitHub Actions • TypeScript
 • Playwright and TypeScript frameworks  
 • AI-assisted quality engineering
 
-## Location
-Kingston Springs, Tennessee
+
 
 
