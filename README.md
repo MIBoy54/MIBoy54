@@ -30,9 +30,8 @@ Tech Stack:
 <li>- Playwright</li>
 <li>- MySQL</li>
 </ul>
-</p>Framework comparison lab evaluating Playwright and Cypress under enterprise CI/CD conditions.
+</p>Framework comparison lab evaluating Playwright and Cypress under enterprise CI/CD conditions.</p>
 <a href="https://[www.example.com](https://github.com/MIBoy54/automation-architecture-lab)">Automation Architecture Lab</a>
-</p>
 <hr>
 <h2> Technology Focus</h2>
 <ul>
