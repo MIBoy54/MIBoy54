@@ -22,7 +22,7 @@
 <hr>
 <h2>Key Projects</h2>
 <a href="(https://github.com/MIBoy54/careerops-platform)">CareerOps Platform</a>
-<h3>DevOps-driven operational automation platform for managing recruiter relationships, opportunity tracking, and compliance reporting.</h3>
+<p>DevOps-driven operational automation platform for managing recruiter relationships, opportunity tracking, and compliance reporting.</p>
 <h3>Tech Stack:</h3>
 <ul>
 <li>- GitHub Actions</li>
