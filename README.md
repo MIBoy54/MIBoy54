@@ -13,6 +13,12 @@ QA Automation Architect focused on building CI-driven test platforms, modern aut
 ![Node](https://img.shields.io/badge/node-20.x-green)
 ![Tests](https://img.shields.io/badge/tests-vitest%20passing-brightgreen)
 
+## GitHub Activity
+
+![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIBoy54&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MIBoy54&layout=compact)
+
 ## Key Projects
 
 ### [CareerOps Platform](https://github.com/MIBoy54/careerops-platform)
