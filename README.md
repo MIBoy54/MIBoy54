@@ -30,12 +30,13 @@ Tech Stack:
 ### Automation Architecture Lab
 Framework comparison lab evaluating Playwright and Cypress under enterprise CI/CD conditions.
 
+Repository:
+https://github.com/MIBoy54/automation-architecture-lab
+
 ## Technologies
 Playwright • Katalon • Vitest • Node.js • GitHub Actions • TypeScript
 
 ## Location
 Kingston Springs, Tennessee
 
-CI Pipeline: Passing
-Vitest Tests: Passing
-Node Version
+
