@@ -2,7 +2,7 @@
 
 QA Automation Architect focused on building CI-driven test platforms, modern automation frameworks, and DevOps-aligned quality engineering systems.
 30+ years delivering quality engineering leadership across healthcare, finance, insurance, and telecommunications platforms.
-
+<hr>
 <h2>Current Focus</h2>
 <ul>
 <li>- Playwright automation</li>
@@ -10,7 +10,8 @@ QA Automation Architect focused on building CI-driven test platforms, modern aut
 <li>- CI/CD test integration</li>
 <li>- AI-assisted Quality Engineering</li>
 </ul>
-## GitHub Activity
+<hr>
+<h2>GitHub Activity</h2>
 
 ![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIBoy54&show_icons=true&theme=default)
 
