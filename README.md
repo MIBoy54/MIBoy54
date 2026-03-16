@@ -3,23 +3,23 @@
 QA Automation Architect focused on building CI-driven test platforms, modern automation frameworks, and DevOps-aligned quality engineering systems.
 30+ years delivering quality engineering leadership across healthcare, finance, insurance, and telecommunications platforms.
 
-## Current Focus
-- Playwright automation
-- DevOps-aligned test architecture
-- CI/CD test integration
-- AI-assisted Quality Engineering
-
-<p align="center">
-<img src="https://github.com/MIBoy54/careerops-platform/actions/workflows/careerops-ci.yml/badge.svg"/>
-<img src="https://img.shields.io/badge/node-20.x-green"/>
-<img src="https://img.shields.io/badge/tests-vitest%20passing-brightgreen"/>
-</p>
-
+<h2>Current Focus</h2>
+<ul>
+<li>- Playwright automation</li>
+<li>- DevOps-aligned test architecture</li>
+<li>- CI/CD test integration</li>
+<li>- AI-assisted Quality Engineering</li>
+</ul>
 ## GitHub Activity
 
 ![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIBoy54&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MIBoy54&layout=compact)
+<p align="center">
+<img src="https://github.com/MIBoy54/careerops-platform/actions/workflows/careerops-ci.yml/badge.svg"/>
+<img src="https://img.shields.io/badge/node-20.x-green"/>
+<img src="https://img.shields.io/badge/tests-vitest%20passing-brightgreen"/>
+</p>
 
 ## Key Projects
 
