@@ -9,6 +9,10 @@ Senior QA Automation Lead building CI-driven test platforms and modern automatio
 - CI/CD test integration
 - AI-assisted Quality Engineering
 
+CI Pipeline: Passing
+Vitest Tests: Passing
+Node Version
+
 ## Key Projects
 
 ### CareerOps Platform
