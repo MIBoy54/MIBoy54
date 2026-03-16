@@ -1,7 +1,6 @@
-QA Automation Architect focused on building CI-driven test platforms, modern automation frameworks, and DevOps-aligned quality engineering systems.
 # Bruce R Lewis
 
-Senior QA Automation Lead building CI-driven test platforms and modern automation architecture.
+QA Automation Architect focused on building CI-driven test platforms, modern automation frameworks, and DevOps-aligned quality engineering systems.
 
 ## Current Focus
 - Playwright automation
@@ -9,9 +8,10 @@ Senior QA Automation Lead building CI-driven test platforms and modern automatio
 - CI/CD test integration
 - AI-assisted Quality Engineering
 
-CI Pipeline: Passing
-Vitest Tests: Passing
-Node Version
+## Build Status
+![CI](https://github.com/MIBoy54/careerops-platform/actions/workflows/careerops-ci.yml/badge.svg)
+![Node](https://img.shields.io/badge/node-20.x-green)
+![Tests](https://img.shields.io/badge/tests-vitest%20passing-brightgreen)
 
 ## Key Projects
 
