@@ -30,19 +30,20 @@ Tech Stack:
 <li>- Playwright</li>
 <li>- MySQL</li>
 </ul>
+</p>Framework comparison lab evaluating Playwright and Cypress under enterprise CI/CD conditions.
+<a href="https://[www.example.com](https://github.com/MIBoy54/automation-architecture-lab)">Automation Architecture Lab</a>
+</p>
 <hr>
-### [Automation Architecture Lab](https://github.com/MIBoy54/automation-architecture-lab)
-Framework comparison lab evaluating Playwright and Cypress under enterprise CI/CD conditions.
-
-## Technology Focus
-Playwright • Vitest • Node.js • GitHub Actions • TypeScript • Katalon
-
-## Interests
-
-• Modern test architecture  
-• CI/CD automation platforms  
-• Playwright and TypeScript frameworks  
-• AI-assisted quality engineering
+<h2> Technology Focus</h2>
+<p>Playwright • Vitest • Node.js • GitHub Actions • TypeScript • Katalon</p>
+<hr>
+<h2>Interests</h2>
+<ul>
+<li>• Modern test architecture</li> 
+<li>• CI/CD automation platforms</li>
+<li>• Playwright and TypeScript frameworks</li> 
+<li>• AI-assisted quality engineering</li>
+</ul>
 
 
 
