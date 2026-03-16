@@ -35,14 +35,20 @@ Tech Stack:
 </p>
 <hr>
 <h2> Technology Focus</h2>
-<p>Playwright • Vitest • Node.js • GitHub Actions • TypeScript • Katalon</p>
+<ul>
+<li>Playwright</li>
+<li>Vitest</li>
+<li>Node.js</li>
+<li>GitHub Actions</li> 
+<li>TypeScript</li> 
+<li>Katalon</li>
 <hr>
 <h2>Interests</h2>
 <ul>
-<li>• Modern test architecture</li> 
-<li>• CI/CD automation platforms</li>
-<li>• Playwright and TypeScript frameworks</li> 
-<li>• AI-assisted quality engineering</li>
+<li>Modern test architecture</li> 
+<li>CI/CD automation platforms</li>
+<li>Playwright and TypeScript frameworks</li> 
+<li>AI-assisted quality engineering</li>
 </ul>
 
 
