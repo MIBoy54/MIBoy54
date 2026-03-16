@@ -9,10 +9,11 @@ QA Automation Architect focused on building CI-driven test platforms, modern aut
 - CI/CD test integration
 - AI-assisted Quality Engineering
 
-## Build Status
-![CI](https://github.com/MIBoy54/careerops-platform/actions/workflows/careerops-ci.yml/badge.svg)
-![Node](https://img.shields.io/badge/node-20.x-green)
-![Tests](https://img.shields.io/badge/tests-vitest%20passing-brightgreen)
+<p align="center">
+<img src="https://github.com/MIBoy54/careerops-platform/actions/workflows/careerops-ci.yml/badge.svg"/>
+<img src="https://img.shields.io/badge/node-20.x-green"/>
+<img src="https://img.shields.io/badge/tests-vitest%20passing-brightgreen"/>
+</p>
 
 ## GitHub Activity
 
