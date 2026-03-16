@@ -1,16 +1,29 @@
-## Hi there 👋
+# Bruce R Lewis
 
-<!--
-**MIBoy54/MIBoy54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior QA Automation Lead building CI-driven test platforms and modern automation architecture.
 
-Here are some ideas to get you started:
+## Current Focus
+- Playwright automation
+- DevOps-aligned test architecture
+- CI/CD test integration
+- AI-assisted Quality Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Projects
+
+### CareerOps Platform
+Automation-driven operational platform for managing recruiter relationships and compliance tracking.
+
+Tech Stack:
+- GitHub Actions
+- Vitest
+- Playwright
+- MySQL
+
+### Automation Architecture Lab
+Framework comparison lab evaluating Playwright and Cypress under enterprise CI/CD conditions.
+
+## Technologies
+Playwright • Katalon • Vitest • Node.js • GitHub Actions • TypeScript
+
+## Location
+Kingston Springs, Tennessee
