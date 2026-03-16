@@ -15,11 +15,8 @@ Node Version
 
 ## Key Projects
 
-### CareerOps Platform
-Automation-driven operational platform for managing recruiter relationships and compliance tracking.
-
-Repository:
-https://github.com/MIBoy54/careerops-platform
+### [CareerOps Platform](https://github.com/MIBoy54/careerops-platform)
+DevOps-driven operational automation platform for managing recruiter relationships, opportunity tracking, and compliance reporting.
 
 Tech Stack:
 - GitHub Actions
@@ -27,14 +24,18 @@ Tech Stack:
 - Playwright
 - MySQL
 
-### Automation Architecture Lab
+### [Automation Architecture Lab](https://github.com/MIBoy54/automation-architecture-lab)
 Framework comparison lab evaluating Playwright and Cypress under enterprise CI/CD conditions.
-
-Repository:
-https://github.com/MIBoy54/automation-architecture-lab
 
 ## Technologies
 Playwright • Katalon • Vitest • Node.js • GitHub Actions • TypeScript
+
+## Interests
+
+• Modern test architecture  
+• CI/CD automation platforms  
+• Playwright and TypeScript frameworks  
+• AI-assisted quality engineering
 
 ## Location
 Kingston Springs, Tennessee
