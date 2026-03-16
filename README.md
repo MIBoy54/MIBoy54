@@ -13,7 +13,6 @@
 <h2>GitHub Activity</h2>
 <p align="center">
 ![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIBoy54&show_icons=true&theme=default)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MIBoy54&layout=compact)
 
 <img src="https://github.com/MIBoy54/careerops-platform/actions/workflows/careerops-ci.yml/badge.svg"/>
