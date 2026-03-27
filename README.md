@@ -1,9 +1,11 @@
 <h1 align="center">Bruce R Lewis</h1>
-
 <p>
-QA Automation Architect focused on building CI-driven test platforms, modern automation frameworks, and DevOps-aligned quality engineering systems.<br>
+QA Automation Architect focused on building CI-driven test platforms, modern automation frameworks, and DevOps-aligned quality engineering systems.
 30+ years delivering quality engineering leadership across healthcare, finance, insurance, and telecommunications platforms.
 </p>
+<hr>
+<h2>Engineering Approach</h2>
+I design and implement scalable quality systems — not just test frameworks — aligned with CI/CD, automation strategy, and enterprise delivery needs.</p>
 
 <hr>
 
@@ -24,16 +26,45 @@ QA Automation Architect focused on building CI-driven test platforms, modern aut
   <img src="https://img.shields.io/badge/tests-vitest%20passing-brightgreen"/>
 </p>
 
-<h2>GitHub Activity</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MIBoy54&show_icons=true&theme=default" alt="Bruce's GitHub Stats"/>
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIBoy54&layout=compact" alt="Top Languages"/>
-</p>
+<hr>
+<h2>Featured Project: CareerOps Platform</h2>
+<p>An open-source, CI-driven platform that applies engineering discipline to job search execution — transforming it into a measurable, repeatable system.</p>
+<h3>**Key Capabilities:**</h3>
+<ul>
+  <li>End-to-end tracking of recruiter engagement and outreach</li>
+  <li>Automated validation and reporting workflows</li>
+  <li>CI-integrated testing using Vitest and GitHub Actions</li>
+  <li>- Data persistence via MySQL with planned containerization strategy (Docker)</li>
+</ul>
+<h3>**Objective:**</h3>
+<ul>
+  <li>Transform job search execution into a measurable, repeatable system aligned with modern engineering practices.</li>
+</ul>
+<h3>**Impact:**</h3>
+<ul>
+  <li>Demonstrates application of CI/CD, automation, and data-driven workflows beyond traditional software delivery</li>
+</ul>
 
 <hr>
+<h2>Roadmap</h2>
+<h3>Near-Term Enhancements</h3>
+<ul>
+  <li>Add Docker support for local development and portability</li>
+  <li>Containerize Node/Express API</li>
+  <li>Containerize MySQL database</li>
+  <li>Implement docker-compose for single-command startup</li>
+  <li>Externalize configuration via environment variables</li>
+  <li>Update README with container setup instructions</li>
+</ul>
+<h3>Future Enhancements</h3>
+<ul>
+  <li>Expand CI/CD automation</li>
+  <li>Improve reporting and analytics</li>
+  <li>Strengthen data management workflows</li>
+  <li>Enhance application usability and operational tracking</li>
+</ul>
 
+<hr>
 <h2>Key Projects</h2>
 
 <h3><a href="https://github.com/MIBoy54/careerops-platform">CareerOps Platform</a></h3>
