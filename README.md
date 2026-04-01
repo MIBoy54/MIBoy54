@@ -23,6 +23,8 @@ I design and implement scalable quality systems — not just test frameworks —
   <img src="https://github.com/MIBoy54/careerops-platform/actions/workflows/careerops-ci.yml/badge.svg"/>
   <img src="https://img.shields.io/badge/node-20.x-green"/>
   <img src="https://img.shields.io/badge/tests-vitest%20passing-brightgreen"/>
+  <img src="https://img.shields.io/badge/Playwright-CI%20Validated%20E2E-blue)"/>
+  <img src="https://img.shields.io/badge/CI/CD-Quality%20Gates%20Enabled-blue)"/>
 </p>
 
 <hr>
