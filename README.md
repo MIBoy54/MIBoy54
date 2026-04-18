@@ -1,6 +1,6 @@
 <h1 align="center">Bruce R Lewis</h1>
 <p>
-Quality Engineering Leader focused on building CI-driven test platforms, modern automation architectures, and DevOps-aligned quality systems. 30+ years delivering scalable quality solutions across healthcare, financial services, insurance, and telecommunications.
+Quality Engineering Leader focused on building CI-driven test platforms, modern automation architectures, and DevOps-aligned quality systems. 20+ years delivering scalable quality solutions across healthcare, financial services, insurance, and telecommunications.
 </p>
 <hr>
 <h2>Engineering Approach</h2>
