@@ -1,19 +1,50 @@
 <h1 align="center">Bruce R Lewis</h1>
 <p>
-Quality Engineering Leader focused on building CI-driven test platforms, modern automation architectures, and DevOps-aligned quality systems. 20+ years delivering scalable quality solutions across healthcare, financial services, insurance, and telecommunications.
+Quality Engineering Leader specializing in CI-driven quality systems, automation architecture, and DevOps-aligned delivery models. 20+ years designing scalable, enterprise-grade quality platforms across healthcare, financial services, insurance, and telecommunications.
+</p>
+
+<hr>
+
+<h2>Engineering Approach</h2>
+<p>
+I build <strong>quality systems</strong> — not just test frameworks — integrating validation directly into CI/CD pipelines through multi-stage quality gates, signal-driven testing, and continuous feedback loops.
 </p>
 <hr>
-<h2>Engineering Approach</h2>
-I design and implement scalable quality systems — not just test frameworks — aligned with CI/CD, automation strategy, and enterprise delivery needs.</p>
 
+
+<h2>Quality System Architecture</h2>
+<ul>
+  <li>DEV Gate: Unit test validation (Vitest)</li>
+  <li>QA Gate: Smoke test validation (Playwright)</li>
+  <li>DEMO Gate: Full E2E validation</li>
+  <li>LIVE Gate: Production-safe deployment with enforced validation</li>
+</ul>
 <hr>
 
-<h2>Current Focus</h2>
+<h2>Featured Project: CareerOps Platform</h2>
+<p>
+An open-source, CI-driven platform that applies engineering discipline to job search execution — transforming it into a measurable, repeatable system with enforced quality validation.
+</p>
+
+<h3>Key Capabilities:</h3>
 <ul>
-  <li>Playwright automation</li>
-  <li>DevOps-aligned test architecture</li>
-  <li>CI/CD test integration</li>
-  <li>AI-assisted Quality Engineering</li>
+  <li>Multi-stage CI/CD pipeline with enforced quality gates (DEV → QA → DEMO → LIVE)</li>
+  <li>Unit, smoke, and E2E test layers aligned to a test pyramid strategy</li>
+  <li>Automated validation using Vitest (unit) and Playwright (smoke/E2E)</li>
+  <li>Environment-aware test execution with branch-based deployment model</li>
+  <li>End-to-end workflow validation and reporting</li>
+  <li>MySQL-backed data persistence with planned containerization (Docker)</li>
+</ul>
+
+<h3>Objective:</h3>
+<ul>
+  <li>Transform job search execution into a structured, measurable system aligned with modern engineering and DevOps practices</li>
+</ul>
+
+<h3>Impact:</h3>
+<ul>
+  <li>Demonstrates implementation of enterprise-grade CI/CD quality gates outside traditional product environments</li>
+  <li>Showcases practical application of test architecture, pipeline enforcement, and system-level validation</li>
 </ul>
 
 <hr>
@@ -23,8 +54,8 @@ I design and implement scalable quality systems — not just test frameworks —
   <img src="https://github.com/MIBoy54/careerops-platform/actions/workflows/careerops-ci.yml/badge.svg"/>
   <img src="https://img.shields.io/badge/node-20.x-green"/>
   <img src="https://img.shields.io/badge/tests-vitest%20passing-brightgreen"/>
-  <img src="https://img.shields.io/badge/Playwright-CI%20Validated%20E2E-blue)"/>
-  <img src="https://img.shields.io/badge/CI/CD-Quality%20Gates%20Enabled-blue)"/>
+  <img src="https://img.shields.io/badge/Playwright-CI%20Validated%20E2E-blue"/>
+  <img src="https://img.shields.io/badge/CI/CD-Quality%20Gates%20Enabled-blue"/>
 </p>
 
 <hr>
