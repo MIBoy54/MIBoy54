@@ -90,23 +90,43 @@
 		</ul>
 <hr>
 
-<h2>Key Projects</h2>
-	<h3><a href="https://github.com/MIBoy54/careerops-platform/blob/main/README.md">CareerOps Platform</a></h3>
-		<p>
-		DevOps-driven operational automation platform for managing recruiter relationships, opportunity tracking, and compliance reporting.
-		</p>
+<h2>Platform Ecosystem</h2>
 
-<h3>Tech Stack</h3>
-		<ul>
-		  <li>GitHub Actions</li>
-		  <li>Vitest</li>
-		  <li>Playwright</li>
-		  <li>MySQL</li>
-		</ul>
-	<h3><a href="https://github.com/MIBoy54/automation-architecture-lab">Automation Architecture Lab</a></h3>
-		<p>
-		Framework comparison lab evaluating Playwright and Cypress under enterprise CI/CD conditions.
-		</p>
+<ul>
+  <li>
+    <strong>
+      <a href="https://github.com/MIBoy54/careerops-platform">
+        CareerOps
+      </a>
+    </strong>
+    – Career Operating System
+    <ul>
+      <li>GitHub Actions</li>
+      <li>Vitest</li>
+      <li>Playwright</li>
+      <li>MySQL</li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>QualityOps</strong>
+    – Quality Engineering Operating Model
+  </li>
+
+  <li>
+    <strong>Athena</strong>
+    – Quality Intelligence Platform
+  </li>
+
+  <li>
+    <strong>
+      <a href="https://github.com/MIBoy54/automation-architecture-lab">
+        Automation Architecture Lab
+      </a>
+    </strong>
+    – Engineering Research & Patterns
+  </li>
+</ul>
 <hr>
 
 <h2>Technology Focus</h2>
