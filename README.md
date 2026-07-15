@@ -1,4 +1,4 @@
-<h1 align="center">Bruce R Lewis</h1>
+<h1 align="center">Bruce Robert Lewis</h1>
 	<p>
 	Quality Engineering leader specializing in CI-driven quality systems, automation architecture, and DevOps-aligned delivery models. 20+ years modernizing enterprise Quality Engineering practices across healthcare, financial services, insurance, and telecommunications.
 	</p>
@@ -100,6 +100,7 @@
       </a>
     </strong>
     – Career Operating System
+	<p>Built with:</p>
     <ul>
       <li>GitHub Actions</li>
       <li>Vitest</li>
