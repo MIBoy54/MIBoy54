@@ -91,7 +91,7 @@
 <hr>
 
 <h2>Platform Ecosystem</h2>
-
+<p>Together, these initiatives form an integrated Quality Engineering ecosystem spanning operational execution, engineering governance, AI-assisted quality intelligence, and architectural research.</p>
 <ul>
   <li>
     <strong>
@@ -100,6 +100,7 @@
       </a>
     </strong>
     – Career Operating System
+	<p><i>Reference Implementation</i></p>
 	<p>Built with:</p>
     <ul>
       <li>GitHub Actions</li>
@@ -116,6 +117,7 @@
 	 </a>
 	</strong>
     – Quality Engineering Operating Model
+	<p><i>Foundational Operating Model</i></p>
   </li>
 
   <li>
@@ -125,6 +127,7 @@
 		</a>
 	</strong>
     – Quality Intelligence Platform
+	<p><i>Foundational Platform Vision</i></p>
   </li>
 
   <li>
@@ -134,6 +137,7 @@
       </a>
     </strong>
     – Engineering Research & Patterns
+	<p><i>Engineering Research Platform</i></p>
   </li>
 </ul>
 <hr>
