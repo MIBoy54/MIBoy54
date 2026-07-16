@@ -110,12 +110,20 @@
   </li>
 
   <li>
-    <strong>QualityOps</strong>
+    <strong>
+	 <a href="https://github.com/users/MIBoy54/projects/2/settings">
+		 QualityOps
+	 </a>
+	</strong>
     – Quality Engineering Operating Model
   </li>
 
   <li>
-    <strong>Athena</strong>
+    <strong>
+		<a href="https://github.com/users/MIBoy54/projects/3/settings">
+		Athena
+		</a>
+	</strong>
     – Quality Intelligence Platform
   </li>
 
