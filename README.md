@@ -68,7 +68,8 @@ Quality Engineering Executive • QualityOps Leadership • Automation Architect
 	</p>
 <hr>
 
-<h2>Platform Ecosystem</h2>
+<h2>QualityOps Portfolio</h2>
+
 <p>Together, these initiatives form an integrated Quality Engineering ecosystem spanning operational execution, engineering governance, AI-assisted quality intelligence, and architectural research.</p>
 <ul>
   <li>
@@ -110,21 +111,6 @@ Quality Engineering Executive • QualityOps Leadership • Automation Architect
 	<p><i>Engineering Research Platform</i></p>
   </li>
 </ul>
-<hr>
-
-<h2>QualityOps Portfolio</h2>
-
-<h3>CareerOps</h3>
-	<p>Reference implementation</p>
-
-<h3>QualityOps Framework</h3>
-	<p>Operating model</p>
-
-<h3>Athena</h3>	
-	<p>AI platform</p>
-
-<h3>Automation Architecture Lab</h3>
-	<p>Research platform</p>
 <hr>
 
 <h2>Leadership Philosophy</h2>
