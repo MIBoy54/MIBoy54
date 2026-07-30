@@ -114,41 +114,39 @@ Quality Engineering Executive • QualityOps Leadership • Automation Architect
 </ul>
 <hr>
 
-<h2>QualityOps Ecosystem</h2>
-<h3>Current Focus</h3>
-	<ul>
-	  <li>AI-assisted Quality Engineering workflows</li>
-	  <li>CI/CD-integrated validation systems</li>
-	  <li>Playwright and TypeScript automation architecture</li>
-	  <li>Observability-driven quality engineering</li>
-	  <li>Automation modernization initiatives</li>
-	</ul>
-<h3>Roadmap</h3>
-	<h4>Near-Term Enhancements</h4>
-		<ul>
-		  <li>Add Docker support for local development and portability</li>
-		  <li>Containerize Node/Express API</li>
-		  <li>Containerize MySQL database</li>
-		  <li>Implement docker-compose for single-command startup</li>
-		  <li>Externalize configuration via environment variables</li>
-		  <li>Update README with container setup instructions</li>
-		</ul>
-	<h4>Future Enhancements</h4>
-		<ul>
-		  <li>Expand CI/CD automation</li>
-		  <li>Improve reporting and analytics</li>
-		  <li>Strengthen data management workflows</li>
-		  <li>Enhance application usability and operational tracking</li>
-		</ul>
+<h2>QualityOps Portfolio</h2>
+
+<h3>CareerOps</h3>
+	<p>Reference implementation</p>
+
+<h3>QualityOps Framework</h3>
+	<p>Operating model</p>
+
+<h3>Athena</h3>	
+	<p>AI platform</p>
+
+<h3>Automation Architecture Lab</h3>
+	<p>Research platform</p>
 <hr>
 
-<h2>Technology Expertise</h2>
+<h2>Leadership Philosophy</h2>
+
+<p>
+Quality is not a phase in software delivery—it is an engineering capability that begins with requirements, is reinforced through architecture and development, validated through testing, and continuously improved through production feedback.
+</p>
+<hr>
+
+<h2>Core Technical Expertise</h2>
 	<ul>
-		  <li>Playwright & TypeScript automation architecture</li>
-		  <li>CI/CD-integrated validation systems</li>
-		  <li>GitHub Actions pipeline automation</li>
-		  <li>Node.js quality engineering workflows</li>
-		  <li>Katalon modernization initiatives</li>
+		  <li>Playwright & TypeScript</li>
+		  <li>API Automation (REST, Postman)</li>
+		  <li>SQL & Data Validation</li>
+		  <li>CI/CD Quality Gates</li>
+		  <li>GitHub Actions & Pipeline Automation</li>
+		  <li>Node.js Quality Engineering</li>
+		  <li>Enterprise Test Architecture</li>
+		  <li>Katalon Modernization</li>
+		  <li>AI-Assisted Quality Engineering</li>
 	</ul>
 <hr>
 
