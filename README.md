@@ -74,7 +74,7 @@ Quality Engineering Executive • QualityOps Leadership • Automation Architect
 <ul>
   <li>
     <strong>
-      <a href="https://github.com/MIBoy54/careerops-platform">🚀 CareerOps Platform</a>
+      <a href="[https://github.com/MIBoy54/careerops-platform](https://github.com/MIBoy54/careerops-platform/blob/main/README.md)">🚀 CareerOps Platform</a>
     </strong>
     - A CI-driven Career Operating System demonstrating enterprise Quality Engineering principles.
 	<p><i>Reference Implementation</i></p>
