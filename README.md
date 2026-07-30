@@ -91,7 +91,7 @@ Quality Engineering Executive • QualityOps Leadership • Automation Architect
     <strong>
 	 <a href="https://github.com/users/MIBoy54/projects/2/settings">🏛️ QualityOps Framework</a>
 	</strong>
-    – An operating model that shifts quality from testing to engineering.
+    – An operating model that shifts quality from testing to engineering. 🚧 Work in Progress
 	<p><i>Foundational Operating Model</i></p>
   </li>
 
