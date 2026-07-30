@@ -4,7 +4,7 @@
 Quality Engineering Executive • QualityOps Leadership • Automation Architecture
 </h3>
 
-<p align="center"><i>20+ years leading enterprise Quality Engineering across Healthcare, Financial Services, Insurance, Telecommunications, and Government.</i></p>
+<p align="center"><i>20+ years leading enterprise Quality Engineering across Healthcare, Financial Services, Insurance, Telecommunications, and Federal & State Government.</i></p>
 
 <hr>
 
