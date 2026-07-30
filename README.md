@@ -105,7 +105,7 @@ Quality Engineering Executive • QualityOps Leadership • Automation Architect
 
   <li>
     <strong>
-      <a href="https://github.com/MIBoy54/automation-architecture-lab">🧪 Automation Architecture Lab</a>
+      <a href="https://github.com/MIBoy54/automation-architecture-lab/blob/main/README.md">🧪 Automation Architecture Lab</a>
     </strong>
     – Research and comparison of modern enterprise automation platforms.
 	<p><i>Engineering Research Platform</i></p>
